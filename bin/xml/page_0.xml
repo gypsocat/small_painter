@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <header>page_0</header>
+    <!--The following are rect primitives-->
+    <class xmlns="rect">
+        <object>
+            <x>-39.6933</x>
+            <y>-88.0789</y>
+            <scale>5.5</scale>
+            <rotation>0</rotation>
+            <penwidth>1</penwidth>
+        </object>
+    </class>
+    <!--The following are line primitives-->
+    <class xmlns="line">
+        <object>
+            <x>3.82211</x>
+            <y>-143.155</y>
+            <scale>1</scale>
+            <rotation>0</rotation>
+            <penwidth>1</penwidth>
+            <sx>14.5935</sx>
+            <sy>-142.461</sy>
+            <ex>88.6035</ex>
+            <ey>-216.47</ey>
+        </object>
+        <object>
+            <x>15.6359</x>
+            <y>-142.808</y>
+            <scale>1</scale>
+            <rotation>0</rotation>
+            <penwidth>1</penwidth>
+            <sx>15.6359</sx>
+            <sy>-142.808</sy>
+            <ex>-157.401</ex>
+            <ey>-216.123</ey>
+        </object>
+        <object>
+            <x>-23.2146</x>
+            <y>-78.6247</y>
+            <scale>1</scale>
+            <rotation>0</rotation>
+            <penwidth>1</penwidth>
+            <sx>-23.2146</sx>
+            <sy>-78.6247</sy>
+            <ex>-23.3841</ex>
+            <ey>-42.0236</ey>
+        </object>
+        <object>
+            <x>-53.7156</x>
+            <y>-83.5388</y>
+            <scale>1</scale>
+            <rotation>0</rotation>
+            <penwidth>1</penwidth>
+            <sx>-53.7156</sx>
+            <sy>-83.5388</sy>
+            <ex>-23.2146</ex>
+            <ey>-78.9636</ey>
+        </object>
+        <object>
+            <x>-53.5456</x>
+            <y>-83.1367</y>
+            <scale>1</scale>
+            <rotation>0</rotation>
+            <penwidth>1</penwidth>
+            <sx>-53.5456</sx>
+            <sy>-83.1367</sy>
+            <ex>-23.2501</ex>
+            <ey>-41.9206</ey>
+        </object>
+    </class>
+    <!--The following are text primitives-->
+    <class xmlns="text">
+        <object>
+            <x>-42.3711</x>
+            <y>-188.041</y>
+            <scale>3.1</scale>
+            <rotation>0</rotation>
+            <penwidth>1</penwidth>
+            <text>Qt Drawing</text>
+        </object>
+    </class>
+    <!--The following are ellipse primitives-->
+    <class xmlns="ellipse">
+        <object>
+            <x>-38.109</x>
+            <y>-59.0904</y>
+            <scale>1</scale>
+            <rotation>0</rotation>
+            <penwidth>1</penwidth>
+        </object>
+        <object>
+            <x>-10.7048</x>
+            <y>-108.332</y>
+            <scale>1</scale>
+            <rotation>0</rotation>
+            <penwidth>1</penwidth>
+        </object>
+        <object>
+            <x>-65.9414</x>
+            <y>-107.904</y>
+            <scale>1</scale>
+            <rotation>0</rotation>
+            <penwidth>1</penwidth>
+        </object>
+    </class>
+</root>

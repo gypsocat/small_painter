@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <header>1</header>
+    <!--The following are rect primitives-->
+    <class xmlns="rect">
+        <object>
+            <x>8.28065</x>
+            <y>6.90635</y>
+            <scale>2.1</scale>
+            <rotation>0</rotation>
+            <penwidth>1</penwidth>
+        </object>
+    </class>
+    <!--The following are line primitives-->
+    <class xmlns="line">
+        <object>
+            <x>-73.9663</x>
+            <y>23.343</y>
+            <scale>1</scale>
+            <rotation>0</rotation>
+            <penwidth>1</penwidth>
+            <sx>-73.9663</sx>
+            <sy>23.343</sy>
+            <ex>-70.5914</ex>
+            <ey>32.9052</ey>
+        </object>
+        <object>
+            <x>-51.4671</x>
+            <y>23.0617</y>
+            <scale>1</scale>
+            <rotation>0</rotation>
+            <penwidth>1</penwidth>
+            <sx>-51.4671</sx>
+            <sy>23.0617</sy>
+            <ex>-73.9663</ex>
+            <ey>23.343</ey>
+        </object>
+        <object>
+            <x>-50.0609</x>
+            <y>-6.1873</y>
+            <scale>1</scale>
+            <rotation>0</rotation>
+            <penwidth>1</penwidth>
+            <sx>-50.0609</sx>
+            <sy>-6.1873</sy>
+            <ex>-51.4671</ex>
+            <ey>23.0617</ey>
+        </object>
+        <object>
+            <x>-85.2159</x>
+            <y>-8.15598</y>
+            <scale>1</scale>
+            <rotation>0</rotation>
+            <penwidth>1</penwidth>
+            <sx>-85.2159</sx>
+            <sy>-8.15598</sy>
+            <ex>-50.0609</ex>
+            <ey>-6.1873</ey>
+        </object>
+    </class>
+    <!--The following are text primitives-->
+    <class xmlns="text">
+        <object>
+            <x>-39.8217</x>
+            <y>-67.4978</y>
+            <scale>1</scale>
+            <rotation>0</rotation>
+            <penwidth>1</penwidth>
+            <text>dasda</text>
+        </object>
+    </class>
+    <!--The following are ellipse primitives-->
+    <class xmlns="ellipse"/>
+</root>
